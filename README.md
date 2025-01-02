@@ -1,4 +1,3 @@
-[! [MasterHead] (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXUwejlsYWNtNHFhZXExcjU0Mzg2OGQ3c2Vnb25uNjg1cXVuNXN4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3owvKdSecsPWrDDjIQ/giphy.gif)
 <h1 align="center">Hi 👋, I'm Melih Daşkıran</h1>
 <h3 align="center">I write code on my own</h3>
 
